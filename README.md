@@ -5,7 +5,7 @@ Introduction :-
 PhoneBook is Companies and Persons finder service. This Project is based on Lab task Abstract Data Types and Polymorphism Design Patterns and Fault Tolerance. 
 The project is implemented in Onion Architecture where every service and repository is unit testable. 
 We can use its services to develop desktop applications or expose an API.
-I try to follow Domain Driven Design (DDD) as much as possible.
+I try to follow Service Oriented Architecture (SOA) as much as possible.
 
 	Architecture:-
 	 PhoneBook.Api            (Can expose API)
