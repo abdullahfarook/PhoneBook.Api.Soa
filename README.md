@@ -1,5 +1,3 @@
-Anonymity code: 1760699
-
 Introduction :-
 
 PhoneBook is Companies and Persons finder service. This Project is based on Lab task Abstract Data Types and Polymorphism Design Patterns and Fault Tolerance. 
@@ -21,7 +19,7 @@ Go to PhoneBook.Test directory of project using CMD
 Enter "dotnet test" command in CMD to Run all prewritten 28 tests
 
 
-Contribute :-
+Also Contribute :-
 Arslan Yaqoob (Arslanyaqoob003@gmail.com)
 
 Dependencies :-
